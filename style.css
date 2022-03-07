@@ -1,0 +1,15 @@
+body{
+   text-align: center;
+}
+.btn{
+  border: solid 5px #48a3a0;
+  width: 120px;
+  height: 120px;
+  display: inline;
+  font-size: 30px;
+  color: #ffffff;
+  background-color: #398582;
+}
+h1{
+  color: blue;
+}
